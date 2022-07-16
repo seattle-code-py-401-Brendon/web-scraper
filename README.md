@@ -14,7 +14,8 @@ Author: Brendon
 - How to initialize/run your application (where applicable)
   - e.g. python main.py
 - How to use your library (where applicable)
-  - Tests
+  - Run in console scraper.py or scraper_two.py 
+- Tests
   - How do you run tests?
   - Any tests of note?
   - Describe any tests that you did not complete, skipped, etc
