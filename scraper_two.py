@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = 'https://en.wikipedia.org/wiki/Welsh_Corgi'
+url = 'https://en.wikipedia.org/wiki/American_Civil_War'
 
 page = requests.get(url)
 soup = BeautifulSoup(page.content, 'html.parser')
